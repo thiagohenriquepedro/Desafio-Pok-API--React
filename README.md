@@ -1,6 +1,6 @@
 ## Desafio PokéAPI
 
-# Projeto feito em angular js 
+# Projeto feito em Angular 
 
 ## Dependencias 
 
