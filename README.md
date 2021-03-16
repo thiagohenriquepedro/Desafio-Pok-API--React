@@ -2,7 +2,7 @@
 
 # Projeto feito em Angular 
 
-## Dependencias 
+## Dependência 
 
 Node.js, npm 
 
