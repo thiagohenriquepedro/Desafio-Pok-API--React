@@ -1,5 +1,15 @@
 ## Desafio PokéAPI
+
+# Projeto feito em angular js 
+
+## Dependencias 
+
+Node.js, npm 
+
+
 #  Como rodar o projeto
 
-tem dois projetos o primeiro com html,img,css,js , o segundo e com o framework reactjs .. Depedencias   node_modules,  npm install , npm start fazendo isso o app vai abrir...
+Ao clonar o projeto instalar as dependência com o comando npm install
+depois npm start para iniciar o projeto....
+
 
